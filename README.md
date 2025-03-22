@@ -25,7 +25,7 @@ You can create your own timeline by modifying the JSON structure in the data fil
 
 ### Live Demo
 
-View the timeline here: [Modern India Timeline](https://digital-humanities-toolkit.github.io/timeline-builder/)
+View the timeline here: [Modern India Timeline](https://phantom2152.github.io/timeline-builder/)
 
 ---
 
