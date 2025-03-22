@@ -1,20 +1,36 @@
-## Timeline Builder
+## Timeline of Modern India (British Rule)
 
-Use Timeline.js to build a timeline! With thanks to the Knight Lab at [NorthWestern University](https://timeline.knightlab.com/).
+An interactive timeline showcasing the significant events in Modern Indian history during the British colonial period. This timeline highlights key moments, movements, and figures that shaped India's journey from the arrival of the East India Company to Independence.
 
-While you can use a spreadsheet to build your timeline as per the docs, here's a sample of how to build your timeline using JSON.
+Built using Timeline.js - an open-source tool by Knight Lab at [NorthWestern University](https://timeline.knightlab.com/).
 
-Run this website locally:
+### Features
 
-1. Make sure you have Node.js installed.
-2. Fork this repo and place it on your local machine in a folder.
-3. Using the command line, CD (change directory) to the folder: `cd myTimeline`.
-4. Use `http-server` to quickly start up a local server; from your code's folder run `npx http-server`. You should see a timeline of Whitney Houston's amazing and tragic life.
+- Interactive visualization of major events during British rule in India
+- Details about freedom movements, reforms, and important milestones
+- Rich media integration including historical images and documents
+- Easy navigation through different periods of colonial India
 
-Build your own JSON structures for a new timeline, [following the docs](https://timeline.knightlab.com/docs/json-format.html).
+### Running Locally
 
-View this example [timeline](https://digital-humanities-toolkit.github.io/timeline-builder/)
+1. Make sure you have Node.js installed
+2. Clone this repository to your local machine
+3. Navigate to the project directory: `cd timeline-builder`
+4. Start a local server: `npx http-server`
+5. Open your browser and visit `http://localhost:8080`
 
-![timeline sample](timeline-example.png)
+### Customization
 
+You can create your own timeline by modifying the JSON structure in the data file, [following the Timeline.js documentation](https://timeline.knightlab.com/docs/json-format.html).
 
+### Live Demo
+
+View the timeline here: [Modern India Timeline](https://digital-humanities-toolkit.github.io/timeline-builder/)
+
+---
+
+### Credits
+
+- Original Timeline Builder by [Digital Humanities Toolkit](https://github.com/digital-humanities-toolkit/timeline-builder)
+- Timeline.js by [Northwestern University Knight Lab](https://timeline.knightlab.com/)
+- Historical content sourced from verified historical records and documents
